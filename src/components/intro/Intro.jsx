@@ -14,8 +14,8 @@ const Intro = () => {
             </div>
           </div>
           <div className="i-desc">
-            I'm a Hard working self-thought front-end developer and BCA graduate
-            aspiring to become Full-stack developer.
+            I'm a self-thought front-end developer and BCA graduate aspiring to
+            become Full-stack developer.
           </div>
         </div>
       </div>
@@ -23,11 +23,10 @@ const Intro = () => {
         <div className="i-bg"></div>
         <img className="i-img" src={me} alt="" />
       </div>
-
       <svg
         className="i-downArrow"
         xmlns="http://www.w3.org/2000/svg"
-        fill="black"
+        fill="#59b256"
         focusable="false"
         viewBox="0 0 24 24"
         aria-hidden="true"
