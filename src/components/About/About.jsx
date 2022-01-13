@@ -18,10 +18,8 @@ const About = () => {
             Front-End Development.
           </p>
           <p className="a-disc">
-            I'm passionate about technology and enjoy nothing more than learning
-            the new trends and implementing it in the web development to make
-            life much easier and nicer. Basically I like to code to develop some
-            nice and cool looking responsive Websites.
+            I'm a self-taught Front-end web developer and passionate about
+            Technology and loves to implement on the web.
           </p>
         </div>
       </div>
