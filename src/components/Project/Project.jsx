@@ -1,10 +1,15 @@
 import "./Project.css";
 const Project = ({ name, desc, link, source, image }) => {
+  const descArray = desc.split(".");
   return (
     <div className="container">
       <div className="left">
         <div className="name">{name}</div>
-        <div className="desc">{desc}</div>
+        <ul className="desc">
+          {descArray.map((e, id) => {
+            return <li key={id}>{e + "."}</li>;
+          })}
+        </ul>
         <div className="link">
           <a className="btn" href={link}>
             See live
