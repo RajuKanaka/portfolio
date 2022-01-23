@@ -26,7 +26,7 @@ const ProjectsData = [
   },
   {
     name: "Wboard",
-    desc: "Wboard is a non-complex UI drawing App. Dynamic color and size changable. Built using React, CSS, Canvas API",
+    desc: "Wboard is a non-complex UI drawing App. Dynamically color and size changeble. Built using React, CSS, Canvas API",
     link: "https://wboard.pages.dev/",
     source: "https://github.com/RajuKanaka/wboard",
     image: wboard,
