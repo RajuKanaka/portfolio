@@ -13,10 +13,6 @@ const Intro = () => {
               <div className="i-title-item">Designer</div>
             </div>
           </div>
-          <div className="i-desc">
-            I'm a self-thought front-end developer and BCA graduate aspiring to
-            become Full-stack developer.
-          </div>
         </div>
       </div>
       <div className="i-right">

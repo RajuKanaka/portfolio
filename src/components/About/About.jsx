@@ -18,8 +18,10 @@ const About = () => {
             Front-End Development.
           </p>
           <p className="a-disc">
-            I'm a self-taught Front-end web developer and passionate about
-            Technology and loves to implement on the web.
+            A Passionate Front End Developer with experience in developing
+            Websites/Apps using JavaScript and Reactjs. Flexible in integrating
+            and working with popular libraries and design systems around the
+            ReactJS ecosystem.
           </p>
         </div>
       </div>

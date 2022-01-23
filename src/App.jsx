@@ -1,3 +1,5 @@
+import Projects from "./components/Projects/Projects";
+
 const { default: About } = require("./components/About/About");
 const { default: Intro } = require("./components/intro/Intro");
 
@@ -6,6 +8,7 @@ const App = () => {
     <div>
       <Intro />
       <About />
+      <Projects />
     </div>
   );
 };

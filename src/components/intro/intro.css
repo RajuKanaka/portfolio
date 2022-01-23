@@ -4,6 +4,7 @@
   height: 100vh;
   flex-wrap: wrap;
   justify-content: center;
+  border-bottom: rgba(163, 147, 147, 0.425) solid 1px;
 }
 .i-left {
   flex: 1;
