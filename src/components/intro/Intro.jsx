@@ -14,6 +14,9 @@ const Intro = () => {
             </div>
           </div>
         </div>
+        <a className="i-projectBtn" href="#projects">
+          PROJECTS
+        </a>
       </div>
       <div className="i-right">
         <div className="i-bg"></div>

@@ -3,7 +3,7 @@ import ProjectsData from "../../Projects_data/ProjectData";
 import Project from "../Project/Project";
 const Projects = () => {
   return (
-    <div className="p-main">
+    <div id="projects" className="p-main">
       <p className="title">PROJECTS</p>
       {ProjectsData.map(({ name, desc, link, source, image }, key) => {
         return (
